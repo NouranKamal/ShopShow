@@ -1,0 +1,40 @@
+.backBtn{
+    background-color: #952446;
+    position: absolute;
+    bottom: -45px;
+    left: 0;
+    border: 0;
+    opacity: 0;
+    transition: all 0.5s;
+    
+}
+.content{
+    border: #E4E4E4 solid 1px;
+}
+.content:hover{
+    border: #84C198 solid 5px;
+    box-shadow:3px 3px 7px 7px rgba(0,0,0,0.3);
+   
+}
+.col{
+    position: relative;
+}
+.col:hover .backBtn{
+    /* background-color:#84C198; */
+    bottom: 23px;
+    opacity: 1;
+
+}
+.content{
+    position: relative;
+    
+}
+.mainC2{
+    color: #84C198;
+}
+.mainC1{
+    color: #952446;
+}
+.starColor{
+    color: rgb(218, 218, 42);
+}

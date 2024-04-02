@@ -1,0 +1,16 @@
+.mainColor1{
+  /* color: #7E3F74; */
+  color: #952446;
+}
+.mainColor2{
+  color: #84C198;
+}
+.backMainColor1{
+  background-color: #952446;
+}
+.backMainColor2{
+  background-color: #84C198;
+}
+.button{
+  border: none;
+}

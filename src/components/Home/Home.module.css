@@ -1,0 +1,16 @@
+.cH{
+    color: #952446;
+}
+.text{
+    position: absolute;
+    top: 30%;
+    left:23.5%;
+    font-size: 80px;
+}
+.text2{
+    position: absolute;
+    top: 60%;
+    left:27.5%;
+    font-size: 35px;
+    font-weight: 700;
+}

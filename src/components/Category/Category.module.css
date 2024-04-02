@@ -1,0 +1,11 @@
+.cName{
+    color: #84C198;
+}
+.content{
+    border: #E4E4E4 solid 1px;
+}
+.content:hover{
+    
+    box-shadow:3px 3px 7px 7px rgba(0,0,0,0.3);
+   
+}
